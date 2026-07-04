@@ -1,37 +1,48 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Earl Deseo
-==================================================================================================================================
+<h1 align="center">Hi 👋, I'm Earl Dane Deseo</h1>
+<h3 align="center">A passionate Information Technology student & Full-Stack Developer from the Philippines 🇵🇭</h3>
 
-IT student
-----------
+<br/>
 
-I am an IT student eager to learn more about python and different programming languages.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Building+Sustainable+Tech" alt="Typing SVG" />
+</div>
 
-* 🌍  I'm based in Philippines
-* ✉️  You can contact me at [deseoearldane@gmail.com](mailto:deseoearldane@gmail.com)
-* 🧠  I'm learning Python
-* 🤝  I'm open to collaborating on Projects
-* ⚡  ...
+---
 
-### Skills
+### 👨‍💻 About Me
 
+- 🌱 Currently building **CheckN Go**, a cross-platform poultry management system focused on distributed farm operations and descriptive analytics.
+- 💡 Actively developing **EcoSort Smart**, an AI-powered waste segregation and incentive-based recycling system.
+- 🎨 Passionate about bridging the gap between clean backend architecture and intuitive frontend UI/UX.
+- 📫 How to reach me: **[deseoearldane@gmail.com](mailto:deseoearldane@gmail.com)**
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,postgres,python,figma,tailwind&perline=9" alt="My Skills" />
+  </a>
 </p>
 
+---
 
-### Socials
+### 📊 GitHub Stats
 
-<p align="left"> <a href="https://www.github.com/HostileEarl" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HostileEarl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Earl's GitHub stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HostileEarl&theme=tokyonight&hide_border=true&background=0f172a" alt="Earl's GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HostileEarl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Top Languages" />
+</div>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/HostileEarl"><img src="https://github-readme-stats.vercel.app/api?username=HostileEarl&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HostileEarl's GitHub stats" /></a>
-
-<a href="http://www.github.com/HostileEarl"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HostileEarl&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/HostileEarl"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=HostileEarl&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/HostileEarl" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HostileEarl&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+<div align="center">
+  <i>Let's connect and build something awesome together! 🚀</i>
+</div>
