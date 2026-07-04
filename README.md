@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🌱 Currently building **CheckN Go**, a cross-platform poultry management system focused on distributed farm operations and descriptive analytics.
-- 💡 Actively developing **EcoSort Smart**, an AI-powered waste segregation and incentive-based recycling system.
+- 💡 Actively developing **TrashTag**, an AI-powered waste segregation and incentive-based recycling system.
 - 🎨 Passionate about bridging the gap between clean backend architecture and intuitive frontend UI/UX.
 - 📫 How to reach me: **[deseoearldane@gmail.com](mailto:deseoearldane@gmail.com)**
 
