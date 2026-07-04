@@ -30,7 +30,6 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HostileEarl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&v=2" alt="Earl's GitHub stats" />
@@ -43,7 +42,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HostileEarl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&v=2" alt="Top Languages" />
 </div>
----
+
 <div align="center">
   <i>Let's connect and build something awesome together! 🚀</i>
 </div>
